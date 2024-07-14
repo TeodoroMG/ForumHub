@@ -128,7 +128,7 @@ Para más información sobre la autenticación stateless, puedes consultar fuent
  #### Autorización: Es el proceso de determinar si un usuario autenticado tiene permisos para acceder a un recurso específico o realizar una acción. Por ejemplo, verificar si un usuario tiene permiso para ver o modificar un documento.
 
 
-![Security Filter](img/autorizacion%20stateless.jpg)
+![Security Filter](img/security%20filter%20para%20app%20tipo%20stateless.jpg)
 #### Security Filter: Es un componente que intercepta las solicitudes HTTP en una aplicación web para aplicar controles de seguridad como autenticación y autorización. Por ejemplo, un filtro de seguridad puede validar tokens JWT antes de permitir el acceso a las rutas protegidas de una aplicación.
 
 ## Sobre mí
