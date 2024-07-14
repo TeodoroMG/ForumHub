@@ -128,18 +128,20 @@ Para más información sobre la autenticación stateless, puedes consultar fuent
  #### Autorización: Es el proceso de determinar si un usuario autenticado tiene permisos para acceder a un recurso específico o realizar una acción. Por ejemplo, verificar si un usuario tiene permiso para ver o modificar un documento.
 
 
-![Security Filter](img/autorizacion%20stateless.jpg)
+![Security Filter](img/security%20filter%20para%20app%20tipo%20stateless.jpg)
 #### Security Filter: Es un componente que intercepta las solicitudes HTTP en una aplicación web para aplicar controles de seguridad como autenticación y autorización. Por ejemplo, un filtro de seguridad puede validar tokens JWT antes de permitir el acceso a las rutas protegidas de una aplicación.
 
 ## Sobre mí
 
 ¡Hola! Mi nombre es Teodoro Matarrita y soy un desarrollador Java junior de Costa Rica.
 
-- ✨ **Creando bugs desde**: Mi primer proyecto de programación, donde aprendí más de mis errores que de mis aciertos.
+- ✨ **Creando bugs desde**: No es mi primer,ni segundo proyecto de programación, donde aprendí más de mis errores que de mis aciertos.
 - 📚 **Actualmente aprendiendo**: Arquitectura de microservicios y DevOps para mejorar la eficiencia y escalabilidad de las aplicaciones.
 - 🎯 **Objetivos**: Convertirme en un desarrollador full-stack, contribuir a proyectos de código abierto y seguir aprendiendo nuevas tecnologías.
 - 🎲 **Dato curioso**: Cuando no estoy programando, me encanta jugar al ajedrez y explorar la biodiversidad de Costa Rica.
 - 👨‍💻 **Lenguaje favorito**: Programo principalmente con Java.
+- 💻 **Otros lenguajes**:HTML, CSS3, javascript (Front end) & Java (Back end)[Fullstack]
+
 
 ## ¡Conéctate conmigo & Gracias por visitar mi proyecto! 👋
 
